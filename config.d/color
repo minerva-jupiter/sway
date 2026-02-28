@@ -1,0 +1,9 @@
+# Dark Pop UI inspired (no blue, dark grey + purple/pink accents)
+# client.<class> <boarder> <background> <text> [<indicator>[child_boardor]]
+client.focused          #652f8f #652f8f #ffffff #652f8f #652f8f
+client.focused_inactive #45475a #313244 #aaaaaa #45475a #45475a
+client.unfocused        #2e2e2e #1e1e1e #eeeeee #2e2e2e #1e1e1e
+client.urgent           #652f8f #652f8f #1e1e2e #f38ba8 #f38ba8
+client.placeholder      #1e1e2e #1e1e2e #cdd6f4 #1e1e2e #1e1e2e
+
+client.background       #1e1e2e

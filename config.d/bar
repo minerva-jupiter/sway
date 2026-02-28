@@ -1,0 +1,16 @@
+bar {
+    position bottom
+    status_command while date +'%Y-%m-%d %X'; do sleep 1; done
+
+    colors {
+        background #1e1e1e
+        statusline #cdd6f4
+        separator  #45475a
+
+        focused_workspace  #652f8f #652f8f #ffffff
+        active_workspace   #45475a #45475a #ffffff
+        inactive_workspace #313244 #313244 #ffffff
+        urgent_workspace   #f38ba8 #f38ba8 #1e1e2e
+        binding_mode       #f38ba8 #f38ba8 #1e1e2e
+    }
+}
