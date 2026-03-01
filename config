@@ -245,3 +245,5 @@ include ~/.config/sway/config.d/*
 input type:keyboard {
 	xkb_layout jp
 }
+
+font "Moralerspace Neon" 11
