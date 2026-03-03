@@ -1,6 +1,6 @@
 bar {
     position bottom
-    status_command while date +'%Y-%m-%d %X'; do sleep 1; done
+    status_command i3status-rs ~/.config/i3status-rs/i3status-rs.toml
 
     colors {
         background #1e1e1e
